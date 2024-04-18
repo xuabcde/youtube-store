@@ -1,64 +1,24 @@
 {
     "name": "Blossom's Repo",
     "identifier": "com.blossom.store",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://github.com/BlossomSylveon",
-    "tintColor": "#4185A9",
-    "featuredApps": [
-        "com.google.ios.uyou"
-    ],
     "apps": [
         {
-            "name": "uYouPlus",
-            "bundleIdentifier": "com.google.ios.uyou",
-            "developerName": "MiRO",
-            "subtitle": "Youtube Enhanced Experience",
-            "localizedDescription": "Enhance Your Youtube Experience.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "tintColor": "#5CA399",
-            "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
-                {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-                    "width": 2556,
-                    "height": 1179
-                }
-            ],
-            "versions": [
-                {
-                    "version": "12.15",
-                    "date": "2024-04-18T07:00:00-3:59",
-                    "size": 12400000,
-                    "downloadURL": "https://github.com/BlossomSylveon/uYouPlus/releases/download/untagged-5f5323cba7c63e8c64f8/uYouPlus_19.15.1-3.0.3.ipa",
-                    "localizedDescription": "Initial release."
-                }
+            "beta": false,
+            "name": "uYou",
+            "bundleIdentifier": "com.google.ios.uYou",
+            "developerName": "",
+            "subtitle": "The Enhanced Youtube",
+            "version": "v2.3.1",
+            "versionDate": "2024-03-16T17:12:00+01:00",
+            "versionDescription": "Custom Your Youtube Experience",
+            "downloadURL": "https://github.com/BlossomSylveon/uYouPlus/releases/download/untagged-5f5323cba7c63e8c64f8/uYouPlus_19.15.1-3.0.3.ipa",
+            "localizedDescription": "uYouPlus is a mofified youtube that enhances your youtube experience",
+            "iconURL": "https://https://blossomsylveon.github.io/Blossoms-Store/YT_icon.png",
+            "tintColor": "9b54fd",
+            "size": 12599249,
+            "screenshotURLs": [
+                "https://https://blossomsylveon.github.io/Blossoms-Store/uYou.png"
             ]
-        }
-    ],
-    "news": [
-        {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://example.com/new_feature_details"
-        },
-        {
-            "title": "App Update Available",
-            "identifier": "app_update",
-            "caption": "An update is available for My Example App.",
-            "date": "2023-03-10T10:00:00-07:00",
-            "tintColor": "#3660A2",
-            "imageURL": "https://example.com/app_update_image.png",
-            "notify": false,
-            "appID": "com.example.myapp"
         }
     ]
 }
