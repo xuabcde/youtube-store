@@ -16,6 +16,14 @@
             ],
             "versions": [
                 {
+                    "version": "19.35.3",
+                    "date": "2024-09-07T08:30:00+01:00",
+                    "versionDescription": "uYouPlus_19.35.3-3.0.4",
+                    "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-5/uYouPlus_19.35.3-3.0.4.ipa",
+                    "localizedDescription": "uYouPlus is a modified youtube that enhances your youtube experience",
+                    "size": 1188121
+                },
+                {
                     "version": "19.33.2",
                     "date": "2024-08-22T10:06:00+01:00",
                     "versionDescription": "uYouPlus_19.33.2-3.0.4",
@@ -55,13 +63,25 @@
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "dayanch96",
             "subtitle": "The Enhanced Youtube Music",
-            "version": "6.37.1",
-            "versionDate": "2024-07-14T17:12:00+01:00",
-            "versionDescription": "YouTubeMusicUltimate_2.1",
-            "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-1/YouTubeMusicUltimate_2.1.ipa",
             "iconURL": "https://raw.githubusercontent.com/BlossomSylveon/Blossoms-Store/main/youtube-music-icon.png",
-            "localizedDescription": "YTMusicUltimate is a modified youtube music that enhances your youtube experience",
-            "size": 79771222
+            "versions": [
+                {
+                    "version": "7.16.3",
+                    "date": "2024-07-14T17:12:00+01:00",
+                    "versionDescription": "YouTubeMusicUltimate_7.16.3-2.1",
+                    "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-5/YouTubeMusicUltimate_7.16.3-2.1.ipa",
+                    "localizedDescription": "YTMusicUltimate is a modified youtube music that enhances your youtube experience",
+                    "size": 83598020
+                },
+                {
+                    "version": "6.37.1",
+                    "date": "2024-07-14T17:12:00+01:00",
+                    "versionDescription": "YouTubeMusicUltimate_6.37.1-2.1",
+                    "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-4/YouTubeMusicUltimate_6.37.1-2.1.ipa",
+                    "localizedDescription": "YTMusicUltimate is a modified youtube music that enhances your youtube experience",
+                    "size": 79771222
+                }
+            ]
         }
     ]
 }
