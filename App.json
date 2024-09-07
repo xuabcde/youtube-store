@@ -12,7 +12,7 @@
             "iconURL": "https://raw.githubusercontent.com/BlossomSylveon/Blossoms-Store/main/YT_icon.png",
             "tintColor": "9b54fd",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/BlossomSylveon/Blossoms-Store/main/uYou.png"
+                "https://raw.githubusercontent.com/xuabcde/youtube-store/master/uYou.png"
             ],
             "versions": [
                 {
@@ -63,7 +63,11 @@
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "dayanch96",
             "subtitle": "The Enhanced Youtube Music",
+            "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/BlossomSylveon/Blossoms-Store/main/youtube-music-icon.png",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/xuabcde/youtube-store/master/YouTubeMusicUltimate.png"
+            ],
             "versions": [
                 {
                     "version": "7.16.3",
