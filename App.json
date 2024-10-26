@@ -16,6 +16,14 @@
             ],
             "versions": [
                 {
+                    "version": "19.42.1",
+                    "date": "2024-10-27T08:30:00+01:00",
+                    "versionDescription": "uYouPlus_19.42.1-3.0.4",
+                    "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-6/uYouPlus_19.42.1-3.0.4.ipa",
+                    "localizedDescription": "uYouPlus is a modified youtube that enhances your youtube experience",
+                    "size": 1210682
+                },
+                {
                     "version": "19.35.3",
                     "date": "2024-09-07T08:30:00+01:00",
                     "versionDescription": "uYouPlus_19.35.3-3.0.4",
