@@ -16,6 +16,14 @@
             ],
             "versions": [
                 {
+                    "version": "19.49.7",
+                    "date": "2025-05-24T08:30:00+01:00",
+                    "versionDescription": "uYouPlus_19.49.7-3.0.4",
+                    "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-7/uYouPlus_19.49.7-3.0.4.ipa",
+                    "localizedDescription": "uYouPlus is a modified youtube that enhances your youtube experience",
+                    "size": 1234425
+                },
+                {
                     "version": "19.42.1",
                     "date": "2024-10-27T08:30:00+01:00",
                     "versionDescription": "uYouPlus_19.42.1-3.0.4",
@@ -77,6 +85,14 @@
                 "https://raw.githubusercontent.com/xuabcde/youtube-store/master/YouTubeMusicUltimate.png"
             ],
             "versions": [
+                {
+                    "version": "8.20.4",
+                    "date": "2024-07-14T17:12:00+01:00",
+                    "versionDescription": "YouTubeMusicUltimate_8.20.4-2.3.1",
+                    "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-7/YouTubeMusicUltimate_8.20.4-2.3.1.ipa",
+                    "localizedDescription": "YTMusicUltimate is a modified youtube music that enhances your youtube experience",
+                    "size": 88945298
+                },
                 {
                     "version": "7.16.3",
                     "date": "2024-07-14T17:12:00+01:00",
