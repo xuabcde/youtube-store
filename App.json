@@ -11,12 +11,12 @@
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/BlossomSylveon/Blossoms-Store/main/YT_icon.png",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/xuabcde/youtube-store/master/YTLite.png"
+                "https://raw.githubusercontent.com/xuabcde/youtube-store/master/YTLite.jpg"
             ],
             "versions": [
                 {
                     "version": "20.23.3",
-                    "date": "2025-06-14T13:00:00+01:00",
+                    "date": "2025-06-14T10:00:00+01:00",
                     "versionDescription": "YTLite_20.23.3_5.2b1",
                     "downloadURL": "https://github.com/xuabcde/youtube-store/releases/download/youtube-8/YTLite_20.23.3_5.2b1.ipa",
                     "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options",
